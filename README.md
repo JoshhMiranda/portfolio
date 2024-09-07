@@ -20,13 +20,13 @@
 - Successfully took ownership and assisted in closing engagements with a total deal value of over $1M
 
 **Business Consulting Intern | Performance Improvement @ Ernst & Young LLP (_December 2021 - July 2022_)**
--Extracted and transformed data from client databases to build dashboards in Power BI which tracked inventory levels of over 2,000 suppliers and 43,000 parts
--Developed a dashboard in PowerBI to identify production bottlenecks in the supply chain
--Worked on SQL query optimization to decrease execution time by over 30%
--Identified Key Performance Indicators and developed storyboards to assess the client's situation and assist in informed decision making
--Facilitated the implementation of a Graph DB solution using Neo 4j
+- Extracted and transformed data from client databases to build dashboards in Power BI which tracked inventory levels of over 2,000 suppliers and 43,000 parts
+- Developed a dashboard in PowerBI to identify production bottlenecks in the supply chain
+- Worked on SQL query optimization to decrease execution time by over 30%
+- Identified Key Performance Indicators and developed storyboards to assess the client's situation and assist in informed decision making
+- Facilitated the implementation of a Graph DB solution using Neo 4j
 
 ## Links
-Github [link](https://github.com/JoshhMiranda)
-Kaggle [link](https://www.kaggle.com/josshhh)
-LinkedIn [link](https://www.linkedin.com/in/joshua-miranda21/)
+- Github [link](https://github.com/JoshhMiranda)
+- Kaggle [link](https://www.kaggle.com/josshhh)
+- LinkedIn [link](https://www.linkedin.com/in/joshua-miranda21/)
