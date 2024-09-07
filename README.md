@@ -3,6 +3,11 @@
 #### Technical Skills: Python, SQL, GCP, AWS
 #### Domain Expertise: Machine Learning, Deep Learning
 
+## About ME!
+👋 Hi there! I'm a Machine Learning Engineer with a passion for Data Science and Machine Learning. With two years of experience in technical sales, I've had the opportunity to bridge the gap between business needs and cutting-edge ML solutions. My focus is on implementing practical machine learning solutions that address real-world challenges.
+Let's build something great together!
+
+
 ## Education								       		
 - M.Sc., Big Data Analytics	| St. Xavier's College, Mumbai (_August 2022_)	 			        		
 - B.SC., Information Technology | St. Xavier's College, Mumbai (_August 2020_)
