@@ -33,6 +33,12 @@ As part of my career transition from technical sales to a Machine Learning Engin
 - Identified Key Performance Indicators and developed storyboards to assess the client's situation and assist in informed decision making
 - Facilitated the implementation of a Graph DB solution using Neo 4j
 
+## Projects
+- [Chat with your PDFs via RAG](https://llmpdfchat-demobyjosh.streamlit.app/)
+- [Chat with any website via RAG](https://llmpdfchat-demobyjosh.streamlit.app/)
+- [Brain Tumor Classification from MRI Scans using CNN](https://www.kaggle.com/code/josshhh/brainmri-imageclassification)
+- [Segmentation of Cars from images using UNET](https://www.kaggle.com/code/josshhh/brainmri-imageclassification)
+
 ## Education								       		
 - M.Sc., Big Data Analytics	| St. Xavier's College, Mumbai (_August 2022_)	 			        		
 - B.SC., Information Technology | St. Xavier's College, Mumbai (_August 2020_)
