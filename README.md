@@ -1,4 +1,5 @@
 # Machine Learning Engeineer
+[Github](https://github.com/JoshhMiranda) | [Kaggle](https://www.kaggle.com/josshhh) | [LinkedIn](https://www.linkedin.com/in/joshua-miranda21/)
 
 #### Technical Skills: Python, SQL, GCP, AWS
 #### Domain Expertise: Machine Learning, Deep Learning
@@ -31,7 +32,4 @@ Let's build something great together!
 - Identified Key Performance Indicators and developed storyboards to assess the client's situation and assist in informed decision making
 - Facilitated the implementation of a Graph DB solution using Neo 4j
 
-## Links
-- Github [link](https://github.com/JoshhMiranda)
-- Kaggle [link](https://www.kaggle.com/josshhh)
-- LinkedIn [link](https://www.linkedin.com/in/joshua-miranda21/)
+
