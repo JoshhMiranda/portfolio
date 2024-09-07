@@ -12,6 +12,7 @@ Let's build something great together!
 ## Work Experience
 
 **Machine Learning Engineer @ Quantiphi Analytics Solutions Private Limited (_August 2024 - Present_)**
+
 As part of my career transition from technical sales to a Machine Learning Engineer, I completed a rigorous 12-week training program focused on key areas of machine learning and data science. During this time, I worked on the following:
 - Core Topics: Python programming, Statistics, Machine Learning, Cpmuter Vision, NLP, Seuqnce to Sequence and Laarge Language Models
 - End-to-End Project Development: Implemented full-scale deep learning projects, integrating CI/CD pipelines via Github Actions and deploying models on AWS using services such as Elastic Beanstalk, ECR, EC2 with Docker for containerization.
