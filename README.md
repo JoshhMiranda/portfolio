@@ -1,5 +1,5 @@
 # Data Scientist
-[Github](https://github.com/JoshhMiranda) | [Kaggle](https://www.kaggle.com/josshhh) | [LinkedIn](https://www.linkedin.com/in/joshua-miranda21/) | [Resume](https://www.linkedin.com/in/joshua-miranda21/)
+[Github](https://github.com/JoshhMiranda) | [Kaggle](https://www.kaggle.com/josshhh) | [LinkedIn](https://www.linkedin.com/in/joshua-miranda21/) | [Resume](https://github.com/JoshhMiranda/portfolio/blob/main/JoshuaMiranda-DataScientist.pdf)
 
 #### Technical Skills: Python, SQL, GCP, AWS
 #### Domain Expertise: Machine Learning, Deep Learning
