@@ -1,4 +1,4 @@
-# Machine Learning Engineer
+# Data Scientist
 [Github](https://github.com/JoshhMiranda) | [Kaggle](https://www.kaggle.com/josshhh) | [LinkedIn](https://www.linkedin.com/in/joshua-miranda21/)
 
 #### Technical Skills: Python, SQL, GCP, AWS
