@@ -5,7 +5,7 @@
 #### Domain Expertise: Machine Learning, Deep Learning
 
 ## About Me!
-👋 Hi there! I'm a Machine Learning Engineer with a passion for Data Science and Machine Learning. With two years of experience in technical sales, I've had the opportunity to bridge the gap between business needs and cutting-edge ML solutions. My focus is on implementing practical machine learning solutions that address real-world challenges.
+👋 Hi there! I'm a Data Scientist with a passion for Machine Learning, Deep Learning and Data Science. With two years of experience in technical sales, I've had the opportunity to bridge the gap between business needs and cutting-edge ML solutions. My focus is on implementing practical machine learning solutions that address real-world challenges.
 Let's build something great together!
 
 
