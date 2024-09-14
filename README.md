@@ -43,19 +43,19 @@ OpenAI and HuggingFace embeddings and models, ChromaDB and FAISS as vector datab
 - Facilitated the implementation of a Graph DB solution using Neo 4j
 
 ## Projects
-[Chat with your PDFs via RAG](https://llmpdfchat-demobyjosh.streamlit.app/)
+**[Chat with your PDFs via RAG](https://llmpdfchat-demobyjosh.streamlit.app/)**
 - Developed a RAG-based application using OpenAI models and Instructor Embeddings from Hugging Face, leveraging Faiss for storing PDF embeddings, allowing users to query
 multiple uploaded PDFs via natural language, deployed on Streamlit Cloud.
 
-[Chat with any website via RAG](https://llmpdfchat-demobyjosh.streamlit.app/)
+**[Chat with any website via RAG](https://llmpdfchat-demobyjosh.streamlit.app/)**
 - Developed a RAG-based application using OpenAI models and embeddings, with ChromaDB for storing website embeddings, enabling users to interact with websites via natural
 language queries, deployed on Streamlit Cloud.
 
-[Brain Tumor Classification from MRI Scans using CNN](https://www.kaggle.com/code/josshhh/brainmri-imageclassification)
+**[Brain Tumor Classification from MRI Scans using CNN](https://www.kaggle.com/code/josshhh/brainmri-imageclassification)**
 - Deployed an end to end Deep Learning project on AWS using AWS EC2, ECR, Elastic BeanStalk, Docker for containerization and integrated CI/CD pipelines using GitHub Actions along
 with MLFlow for model experimentation, versioning and tracking 
 
-[Segmentation of Cars from images using UNET](https://www.kaggle.com/code/josshhh/brainmri-imageclassification)
+**[Segmentation of Cars from images using UNET](https://www.kaggle.com/code/josshhh/brainmri-imageclassification)**
 - Trained a UNET model for image segmentation to detect and extract cars from horizontal and vertical orientations using 20 annotated images with image masks
 
 ## Education								       		
