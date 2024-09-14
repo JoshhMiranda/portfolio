@@ -9,9 +9,13 @@ Let's build something great together!
 
 ## Skills
 **LANGUAGES:** Python, SQL, Java
+
 **PYTHON FRAMEWORKS AND PACKAGES:** Tensorflow, Keras, Langchain, MLflow, Sckkit-learn, Numpy, Pandas
+
 **CLOUD PLATFORMS:** GCP, AWS
+
 **TOOLS:** Docker, SQL Workbench, Tableau, PowerBI, Neo4J
+
 **DOMAIN EXPERTISE:** Classical ML, Computer Vision, NLP, Sequence-to-Sequence models, Transformers, RAG, Data Analysis and visualization
 
 
