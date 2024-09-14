@@ -1,22 +1,27 @@
 # Data Scientist
 [Github](https://github.com/JoshhMiranda) | [Kaggle](https://www.kaggle.com/josshhh) | [LinkedIn](https://www.linkedin.com/in/joshua-miranda21/) | [Resume](https://github.com/JoshhMiranda/portfolio/blob/main/JoshuaMiranda-DataScientist.pdf)
 
-#### Technical Skills: Python, SQL, GCP, AWS
-#### Domain Expertise: Machine Learning, Deep Learning
 
 ## About Me!
 👋 Hi there! I'm a Data Scientist with a passion for Machine Learning, Deep Learning and Data Science. With two years of experience in technical sales, I've had the opportunity to bridge the gap between business needs and cutting-edge ML solutions. My focus is on implementing practical machine learning solutions that address real-world challenges.
 Let's build something great together!
 
 
+## Skills
+#### LANGUAGES: Python, SQL, Java
+#### PYTHON FRAMEWORKS AND PACKAGES: Tensorflow, Keras, Langchain, MLflow, Sckkit-learn, Numpy, Pandas
+#### CLOUD PLATFORMS: GCP, AWS
+#### DATA SCIENCE, MACHINE LEARNING AND DEEP LEARNING: Classical ML, Computer Vision, NLP, Sequence-to-Sequence models, Transformers, RAG, Data Analysis and visualization
+#### TOOLS: Docker, SQL Workbench, Tableau, PowerBI, Neo4J
+
+
 ## Work Experience
-
 **Machine Learning Engineer @ Quantiphi Analytics Solutions Private Limited (_August 2024 - Present_)**
-
-As part of my career transition from technical sales to a Machine Learning Engineer, I completed a rigorous 12-week training program focused on key areas of machine learning and data science. During this time, I worked on the following:
-- Core Topics: Python programming, Statistics, Machine Learning, Cpmuter Vision, NLP, Seuqnce to Sequence and Laarge Language Models
-- End-to-End Project Development: Implemented full-scale deep learning projects, integrating CI/CD pipelines via Github Actions and deploying models on AWS using services such as Elastic Beanstalk, ECR, EC2 with Docker for containerization.
-- RAG Projects: Created Retrieval-Augmented Generation (RAG) systems for conversational agents that interact with data from PDFs and websites using tools like LangChain, OpenAI, ChromaDB, FAISS, and deployed on Streamlit Cloud.
+- Deployed an end to end Deep Learning project on AWS using AWS EC2, ECR, Elastic BeanStalk, Docker for containerization and integrated CI/CD pipelines using GitHub Actions
+along with MLFlow for model experimentation, versioning and tracking as a part of a 12 week training program under the mentorship of a data scientist
+- Created Retrieval-Augmented Generation (RAG) systems for conversational agents that interact with data from user uploaded PDFs and websites using the LangChain frameowrk,
+OpenAI and HuggingFace embeddings and models, ChromaDB and FAISS as vector databases and Streamlit Cloud for deployment
+- Covered classical Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Sequence-to-sequence models during the training program
 
 **Business Analyst | Custom ML Solutions @ Quantiphi Analytics Solutions Private Limited (_August 2022 - August 2024_)**
 - Responsible for understanding, analyzing and solving complex problems through AI across a variety of industries including BFSI, Energy and Retail & CPG
@@ -35,9 +40,19 @@ As part of my career transition from technical sales to a Machine Learning Engin
 
 ## Projects
 - [Chat with your PDFs via RAG](https://llmpdfchat-demobyjosh.streamlit.app/)
+Developed a RAG-based application using OpenAI models and Instructor Embeddings from Hugging Face, leveraging Faiss for storing PDF embeddings, allowing users to query
+multiple uploaded PDFs via natural language, deployed on Streamlit Cloud.
+
 - [Chat with any website via RAG](https://llmpdfchat-demobyjosh.streamlit.app/)
+Developed a RAG-based application using OpenAI models and embeddings, with ChromaDB for storing website embeddings, enabling users to interact with websites via natural
+language queries, deployed on Streamlit Cloud.
+
 - [Brain Tumor Classification from MRI Scans using CNN](https://www.kaggle.com/code/josshhh/brainmri-imageclassification)
+Deployed an end to end Deep Learning project on AWS using AWS EC2, ECR, Elastic BeanStalk, Docker for containerization and integrated CI/CD pipelines using GitHub Actions along
+with MLFlow for model experimentation, versioning and tracking 
+
 - [Segmentation of Cars from images using UNET](https://www.kaggle.com/code/josshhh/brainmri-imageclassification)
+Trained a UNET model for image segmentation to detect and extract cars from horizontal and vertical orientations using 20 annotated images with image masks
 
 ## Education								       		
 - M.Sc., Big Data Analytics	| St. Xavier's College, Mumbai (_August 2022_)	 			        		
