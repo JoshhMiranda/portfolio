@@ -84,7 +84,7 @@ p { margin: 0 0 1em; }
 }
 .nav.scrolled { border-bottom-color: var(--line); }
 .nav-inner { display: flex; align-items: center; justify-content: space-between; height: 64px; }
-.brand { font-family: var(--serif); font-weight: 600; font-size: 1.2rem; color: var(--text); }
+.brand { white-space: nowrap; font-family: var(--serif); font-weight: 600; font-size: 1.2rem; color: var(--text); }
 .brand:hover { text-decoration: none; }
 .nav-links { list-style: none; display: flex; gap: 28px; align-items: center; margin: 0; padding: 0; }
 .nav-links a { color: var(--muted); font-size: .95rem; font-weight: 500; }
@@ -206,7 +206,7 @@ h1 em { font-style: italic; color: var(--accent); }
   .two-col { grid-template-columns: 1fr; gap: 28px; }
   .section-title { position: static; }
 }
-@media (max-width: 720px) {
+@media (max-width: 900px) {
   .menu-btn {
     display: flex; flex-direction: column; justify-content: center; gap: 6px;
     width: 40px; height: 40px; background: none; border: none; cursor: pointer; padding: 8px;
@@ -253,3 +253,20 @@ h1 em { font-style: italic; color: var(--accent); }
   background: color-mix(in srgb, var(--surface) 82%, transparent);
   backdrop-filter: blur(6px);
 }
+
+/* PROJECTS & CERTIFICATIONS */
+.projects-grid { display: grid; gap: 18px; }
+.project {
+  display: flex; flex-direction: column; gap: 12px; color: var(--text);
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 24px 26px;
+  transition: transform .2s, box-shadow .2s, border-color .2s;
+}
+.project:hover, .cert:hover { text-decoration: none; transform: translateY(-3px); box-shadow: var(--shadow); border-color: var(--accent); }
+.project-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+.project-head h3 { font-size: 1.15rem; font-weight: 600; }
+.project-head svg { color: var(--accent); flex-shrink: 0; margin-top: 4px; }
+.project p { margin: 0; color: var(--muted); font-size: .97rem; }
+.project-link { display: inline-flex; align-items: center; gap: 4px; color: var(--accent); font-weight: 600; font-size: .9rem; }
+.cert { color: var(--text); transition: transform .2s, box-shadow .2s, border-color .2s; }
+.has-shader .project { background: color-mix(in srgb, var(--surface) 82%, transparent); backdrop-filter: blur(6px); }
+@media (max-width: 480px) { .project { padding: 20px 18px; } }
